@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @LordElain
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++, C# and Ruby
-- 📫 https://twitter.com/Lord_Elain
+- 📫 My Twitter: https://twitter.com/Lord_Elain
+- 💻 My portfolio: https://krausekevin.de
+
 
 <!---
 LordElain/LordElain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
