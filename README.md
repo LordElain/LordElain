@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++, C# and Ruby
 - 📫 My Twitter: https://twitter.com/Lord_Elain
-- 💻 My portfolio: https://krausekevin.de
+
 
 
 <!---
