@@ -1,3 +1,4 @@
+![This is an image](./github-header-image.png)
 - 👋 Hi, I’m @LordElain
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++, C# and Ruby
