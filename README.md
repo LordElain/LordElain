@@ -1,7 +1,7 @@
 ![This is an image](./github-header-image.png)
 - 👋 Hi, I’m @LordElain
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++, C# and Ruby
+- 👀 I’m interested in Game Development but working as C# Fulltime
+- 🌱 I’m currently learning C++, C# and Ruby. Focus as for now: Blazor
 - 📫 My Twitter: https://twitter.com/Lord_Elain
 
 
